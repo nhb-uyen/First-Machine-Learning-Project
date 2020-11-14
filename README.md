@@ -1,6 +1,6 @@
 # First-Machine-Learning-Project
 
-Link to Kaggle: https://www.kaggle.com/uyennghb/first-machine-learning-project/edit
+Link to Kaggle: https://www.kaggle.com/ambarish/kiva-data-analysis-w-naive-poverty-metric/
 
 # 1. Introduction
 This document details the purpose, methodology, and application of data science within the [Project Name] system. Section 2 outlines the business objective addressed by the data science work, and defines the scope of the effort. Section 3 describes the data collected and utilized during analysis. Sections 4, 5, and 6 detail the methodologies employed, why they were selected, and how they are used and tuned (Section 4), trained (Section 5), and tested (Section 6). Finally, [any further sections that are added]
